@@ -7,6 +7,7 @@ function App() {
     <div className="app-container">
       <h1>this si my website
       </h1>
+      <p>I have deploywd thin on netlify</p>
     </div>
   )
 }
