@@ -1,1 +1,1 @@
-# Samsung-Online-Store-Clone
+# sumanpaik-portfolio-website
